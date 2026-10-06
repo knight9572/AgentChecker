@@ -1,0 +1,1 @@
+- Reliability checks run client-side as deterministic pattern rules in src/lib/checks.ts; custom checks persist in localStorage. Why: instant, free, explainable line-level evidence.
